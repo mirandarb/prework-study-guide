@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I created this study guide to help better prepaire students for the bootcamp. This will make it easier for them to look back at important topics they learned in the prework. If they didn't have access to one then they would have a late start to the bootcamp. I learned the building blocks of a webpage using HTML, CSS, and JavaScript while also learning how to build a webpage.
 
 
